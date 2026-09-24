@@ -1,0 +1,15 @@
+src\main\java\net\mylermc\discordserv\DeathTranslator.java
+src\main\java\net\mylermc\discordserv\discord\DiscordDispatcher.java
+src\main\java\net\mylermc\discordserv\discord\Embed.java
+src\main\java\net\mylermc\discordserv\discord\WebhookClient.java
+src\main\java\net\mylermc\discordserv\DiscordConfig.java
+src\main\java\net\mylermc\discordserv\DiscordServCommand.java
+src\main\java\net\mylermc\discordserv\listener\AdvancementListener.java
+src\main\java\net\mylermc\discordserv\listener\ChatListener.java
+src\main\java\net\mylermc\discordserv\listener\ConnectionListener.java
+src\main\java\net\mylermc\discordserv\listener\DeathListener.java
+src\main\java\net\mylermc\discordserv\security\FloodGuard.java
+src\main\java\net\mylermc\discordserv\security\Sanitizer.java
+src\main\java\net\mylermc\discordserv\SKDiscordServPlugin.java
+src\main\java\net\mylermc\discordserv\util\Json.java
+src\main\java\net\mylermc\discordserv\util\Text.java
